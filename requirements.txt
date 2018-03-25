@@ -1,4 +1,7 @@
 scipy
 numpy
 jupyter
-tensorboardX
+scikit-learn
+tensorflow
+tensorboard
+tensorboardx
